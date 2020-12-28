@@ -1,4 +1,11 @@
 # Calculator_NBA
+
+<p align="center">
+
+<img src="image.jpg?raw=true"  width=500px />
+</p>
+
+
 Calculator_NBA is a simple calculator for FantaNBA.
 
 ## Getting Started
