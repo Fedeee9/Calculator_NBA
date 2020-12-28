@@ -98,11 +98,11 @@ def calcolo(name, val, team):
     stringa += "Totale: "+str(totale)
   
     if team == 1:
-        print("Team1")
+        print("Team1 Complete")
         file_w = open('ResultTeam1.txt', 'w')
         file_w.write(stringa)
     elif team == 2:
-        print("Team2")
+        print("Team2 Complete")
         file_w = open('ResultTeam2.txt', 'w')
         file_w.write(stringa)
 
@@ -123,12 +123,7 @@ def dati(r, team):
                 
     punteggio = calcolo(name, val, team)
     
-def team1(team):
-    dati(r, team)
-    
-def team2(team):
-    dati(r, team)
-    
 if __name__ == '__main__':
-    team1(1)
-    team2(2)
+    dati(r, 1)
+    dati(r, 2)
+    print("\nGo to see the scores in files ResultTeam1.txt and ResultTeam2.txt")
