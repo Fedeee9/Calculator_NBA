@@ -21,12 +21,17 @@ sudo apt install python3-pip
 sudo apt install python3-venv
 ```
 
-* Create a virtual environment and install requirements modules
+* Install and create a virtual environment
 ```
+python3 -m pip install --user virtualenv
+
 cd Calculator_NBA
 python3 -m venv venv
 source venv/bin/activate
+```
 
+* Install requirements modules
+```
 python3 -m pip install -r requirements.txt
 ```
 
