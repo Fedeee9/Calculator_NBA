@@ -1,2 +1,2 @@
 # Calculator_NBA
-Calculator for FantaNBA
+Calculator_NBA is a simple calculator for FantaNBA.
