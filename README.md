@@ -9,5 +9,5 @@ git clone https://github.com/Fedeee9/Calculator_NBA
 ```
 
 
-# Credits
+### Credits
 * Calculator_NBA was developed by Federico Dal Monte
