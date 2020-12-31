@@ -65,7 +65,10 @@ python3 CalculatorLinux.py
 ```
 
 ## File Excel
-* 
+Write the name players:
+* Line 2 --> Captain
+* Line 2-7 --> Starters
+* Line 8-13 --> Reserves
 
 
 ### Credits
