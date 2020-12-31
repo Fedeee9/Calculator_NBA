@@ -29,7 +29,7 @@ py -m venv env
 ```
 * Install requirements modules
 ```
-python3 -m pip install -r requirementsWindows.txt
+py -m pip install -r requirementsWindows.txt
 ```
 * Running
 ```
