@@ -9,9 +9,9 @@ import requests
 import bs4 as BeautifulSoup
 
 
-path_excel = r'C:\Users\feder\Documents\Federico\Fanta NBA\Calculator_NBA\Formazioni.xlsx'
-path_1 = r'C:\Users\feder\Documents\Federico\Fanta NBA\Calculator_NBA\ResultTeam1.txt'
-path_2 = r'C:\Users\feder\Documents\Federico\Fanta NBA\Calculator_NBA\ResultTeam2.txt'
+path_excel = r'Formazioni.xlsx'
+path_1 = r'ResultTeam1.txt'
+path_2 = r'ResultTeam2.txt'
 
 def settings(numD):
 
