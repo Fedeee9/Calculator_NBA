@@ -10,12 +10,12 @@ Calculator_NBA is a simple calculator for FantaNBA.
 
 ## Getting Started
 
-## Windows
-* Download the GitHub repository.
+### Windows
+* Download the GitHub repository
 ```
 https://github.com/Fedeee9/Calculator_NBA
 ```
-* Download and install Python.
+* Download and install Python
 ```
 https://www.python.org/downloads/
 ```
@@ -30,7 +30,7 @@ py -m venv env
 
 
 ### Linux
-* Clone the GitHub repository to your computer to get the application.
+* Clone the GitHub repository to your computer to get the application
 ```
 git clone https://github.com/Fedeee9/Calculator_NBA
 ```
