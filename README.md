@@ -27,21 +27,22 @@ cd Calculator_NBA
 py -m venv env
 .\env\Scripts\activate
 ```
-
+* Install requirements modules
+```
+python3 -m pip install -r requirementsWindows.txt
+```
 
 ### Linux
 * Clone the GitHub repository to your computer to get the application
 ```
 git clone https://github.com/Fedeee9/Calculator_NBA
 ```
-
 * Install dependencies
 ```
 sudo apt install python3-setuptools
 sudo apt install python3-pip
 sudo apt install python3-venv
 ```
-
 * Install and create a virtual environment
 ```
 python3 -m pip install --user virtualenv
@@ -50,16 +51,17 @@ cd Calculator_NBA
 python3 -m venv env
 source venv/bin/activate
 ```
-
 * Install requirements modules
 ```
-python3 -m pip install -r requirements.txt
+python3 -m pip install -r requirementsLinux.txt
 ```
-
-## Running
+* Running
 ```
 python3 Calculator.py
 ```
+
+## File Excel
+* 
 
 
 ### Credits
