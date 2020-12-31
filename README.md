@@ -31,6 +31,10 @@ py -m venv env
 ```
 python3 -m pip install -r requirementsWindows.txt
 ```
+* Running
+```
+py CalculatorWindows.py
+```
 
 ### Linux
 * Clone the GitHub repository to your computer to get the application
@@ -57,7 +61,7 @@ python3 -m pip install -r requirementsLinux.txt
 ```
 * Running
 ```
-python3 Calculator.py
+python3 CalculatorLinux.py
 ```
 
 ## File Excel
