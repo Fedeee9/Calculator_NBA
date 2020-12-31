@@ -1,0 +1,6 @@
+openpyxl
+pandas
+requests
+bs4
+lxml
+numpy==1.19.3
